@@ -1,0 +1,31 @@
+
+
+.private1{
+    height: 100vh;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.logout-button{
+    position: relative;
+    top: 20%;
+    background-color: lightblue;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.logout-button:hover{
+    background-color: lightgreen;
+}
+
+.nextPage-button{
+    background-color: lightyellow;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.nextPage-button:hover{
+    background-color: lightpink;
+}

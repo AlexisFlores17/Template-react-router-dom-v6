@@ -1,0 +1,17 @@
+
+.footer-div{
+    height: 15vh;
+    width: 100vw;
+    background-color: blueviolet;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position:fixed;
+    bottom: 0;
+    left: 0;
+
+    .footer-titulo{
+        color: white;
+        font-size: 2rem;
+    }
+}

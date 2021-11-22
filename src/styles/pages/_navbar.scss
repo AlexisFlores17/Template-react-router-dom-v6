@@ -1,0 +1,20 @@
+
+.navbar{
+    height: 50px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgrey;
+
+}
+
+.navbar-element{
+    margin: 30px;
+    padding: 10px;
+    background-color: khaki;
+}
+
+.navbar-element:hover{
+    background-color: lavenderblush;
+}

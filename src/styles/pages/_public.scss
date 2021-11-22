@@ -1,0 +1,35 @@
+
+.public-page{
+    height: 100vh;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.placeholder-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+    .public-title1{
+        margin: 10px;
+        padding: 50px;
+        background-color: lightcoral;
+    }
+    .public-title2{
+        margin: 10px;
+        padding: 50px;
+        background-color:lightseagreen;
+    }
+}
+
+.public-button{
+    background-color: lightblue;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.public-button:hover{
+    background-color: lightgreen;
+}

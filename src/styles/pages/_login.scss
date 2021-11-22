@@ -1,0 +1,35 @@
+
+.login-page{
+    height: 100vh;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-title{
+    margin-bottom: 50px;
+    padding: 50px;
+    background-color: lightcoral;
+}
+
+.login-button{
+    background-color: lightblue;
+    padding: 10px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.login-button:hover{
+    background-color: lightgreen;
+}
+
+.back-button{
+    background-color:lightsalmon;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.back-button:hover{
+    background-color: lightskyblue;
+}
